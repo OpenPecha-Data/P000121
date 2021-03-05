@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000121
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བཀའ་གདམས་སྤྲུལ་པའི་གླེགས་བམ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-03
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-SHAP-03
 web_metadata:
   title:
     en: The Book of Kadam-Emanated Scriptures
